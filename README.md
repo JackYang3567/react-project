@@ -57,6 +57,7 @@ npx -p node@8 npm run build
 
 ## 2、 使用create-react-app创建项目
  系统具备，Node 的版本 >= 6 ， npm的版本 >= 5.2 
+ 
  运行下列代码创建项目
  ```
 npx create-react-app appProjectName
