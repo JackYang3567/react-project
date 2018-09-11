@@ -53,3 +53,13 @@ npx -p node@8 npm run build
 - 2、可以执行依赖包中的命令，安装完成自动运行。
 - 3、自动加载node_modules中依赖包，不用指定$PATH。
 - 4、可以指定node版本、命令的版本，解决了不同项目使用不同版本的命令的问题。
+
+
+## 2、 使用create-react-app创建项目
+ 系统具备，Node 的版本 >= 6 ， npm的版本 >= 5.2 
+ 运行下列代码创建项目
+ ```
+npx create-react-app appProjectName
+cd appProjectName
+npm start
+````
